@@ -1,3 +1,3 @@
 # Developer Portfolio-CodeWell Challenge
 
-![Developer Portfolio](design/Desktop-Design.png)
+![Developer Portfolio](Design/Desktop-Design.png)
